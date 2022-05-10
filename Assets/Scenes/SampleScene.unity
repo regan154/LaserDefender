@@ -155,7 +155,8 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: d11936f61c90adb47bfe8443c62172c5, type: 2}
   - {fileID: 11400000, guid: d5de260c1a94be743818f9cf272f106d, type: 2}
-  timeBetweenWaves: 2
+  timeBetweenWaves: 0
+  isLooping: 1
 --- !u!4 &118917955
 Transform:
   m_ObjectHideFlags: 0
